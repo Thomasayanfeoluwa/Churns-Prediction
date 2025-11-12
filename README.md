@@ -2,7 +2,7 @@
 *A data‑driven system to predict and reduce customer churn using machine learning.*  
 
 [![Built with Python](https://img.shields.io/badge/Built%20With‑Python‑3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
-[![Live Demo](https://img.shields.io/badge/Live‑Demo‑Streamlit‑4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://churns‑prediction‑xsqeccw2idowgdhcg3ajg4.streamlit.app/)  
+[![Live Demo](https://img.shields.io/badge/Live‑Demo‑Streamlit‑4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/)  
 
 ---
 
@@ -38,3 +38,4 @@ python3 -m venv venv
 source venv/bin/activate  
 pip install -r requirements.txt  
 streamlit run app.py  
+
