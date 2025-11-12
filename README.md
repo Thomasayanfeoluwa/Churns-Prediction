@@ -31,11 +31,12 @@ This project builds an end‑to‑end ML pipeline to identify customers likely t
 
 ## 🚀 Getting Started  
 ```bash
-git clone https://github.com/YourUsername/customer‑churn‑prediction.git  
+git clone https://github.com/Thomasayanfeoluwa/Churns-Prediction
 cd customer‑churn‑prediction  
 python3 -m venv venv  
 source venv/bin/activate  
 pip install -r requirements.txt  
 streamlit run app.py  
+
 
 
